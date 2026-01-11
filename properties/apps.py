@@ -1,9 +1,4 @@
-# from django.apps import AppConfig
-# import properties.signals
-
-# class PropertiesConfig(AppConfig):
-#     default_auto_field = 'django.db.models.BigAutoField'
-#     name = 'properties'
+# App Properties register
 
 from django.apps import AppConfig
 
